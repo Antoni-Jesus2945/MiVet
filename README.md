@@ -1,1 +1,2 @@
-# MiVet
+Pagina web para proyecto integrado , version 1.0 (es mejorable), realizada con laravel que es el framework que es muy potente y comodo para backend. Sitio web con bootstraps y css puro, logica realizada en los controllers de laravel. Haciendo peticiones ajax para hacer cuadros modales a traves de js. Migracion de base de datos implementada también.
+Para la versión 2.0 explotar un poco mas las plantillas blade de Laravel y refactorizar los elementos necesarios. Implementar mayor complejidad en el codigo como que un cliente tenga dos animales y pueda registrar al segundo animal después de haber registrado al primero etc...
